@@ -1,4 +1,4 @@
-# AHO
+# DDOS
 终端输入
 
 git clone https://github.com/Ha3MrX/DDos-Attack
